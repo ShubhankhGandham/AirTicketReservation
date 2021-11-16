@@ -17,7 +17,7 @@ passengers to book the tickets in a very low price or reasonable
 prices. As the prices vary from day to day from site to site they can 
 choose a flight company and they can as per their comfort.
 
-It was a great experience for our team members to 
+I was the team leader for this project and it was a great experience for our team members to 
 work together. We faced many ups and downs in doing 
 the project. But, finally we are happy as we could 
 finish the project within the time given to us , and we 
